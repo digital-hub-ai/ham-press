@@ -17,14 +17,14 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "World's Largest Premium News - Global Coverage",
-    template: "%s | LuminaPress Premium News"
+    default: "Ham News - World's Premier News Destination",
+    template: "%s | Ham News"
   },
-  description: "Delivering the finest premium news from around the globe with in-depth analysis and exclusive coverage for discerning readers in high-value markets.",
-  keywords: ["premium news", "world news", "breaking news", "politics", "business", "technology", "environment", "international affairs"],
-  authors: [{ name: "LuminaPress Team" }],
-  creator: "LuminaPress",
-  publisher: "LuminaPress",
+  description: "Stay informed with Ham News, your premier destination for breaking news, in-depth analysis, and exclusive coverage from around the globe.",
+  keywords: ["ham news", "world news", "breaking news", "politics", "business", "technology", "environment", "international affairs"],
+  authors: [{ name: "Ham News Team" }],
+  creator: "Ham News",
+  publisher: "Ham News",
   robots: {
     index: true,
     follow: true,
@@ -37,30 +37,30 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://www.luminapress.com",
+    canonical: "https://ham-news.vercel.app",
   },
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://www.luminapress.com",
-    title: "World's Largest Premium News - Global Coverage",
-    description: "Delivering the finest premium news from around the globe with in-depth analysis and exclusive coverage for discerning readers in high-value markets.",
-    siteName: "LuminaPress Premium News",
+    url: "https://ham-news.vercel.app",
+    title: "Ham News - World's Premier News Destination",
+    description: "Stay informed with Ham News, your premier destination for breaking news, in-depth analysis, and exclusive coverage from around the globe.",
+    siteName: "Ham News",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "LuminaPress Premium News",
+        alt: "Ham News",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "World's Largest Premium News - Global Coverage",
-    description: "Delivering the finest premium news from around the globe with in-depth analysis and exclusive coverage for discerning readers in high-value markets.",
+    title: "Ham News - World's Premier News Destination",
+    description: "Stay informed with Ham News, your premier destination for breaking news, in-depth analysis, and exclusive coverage from around the globe.",
     images: ["/og-image.jpg"],
-    creator: "@LuminaPress",
+    creator: "@HamNews",
   },
   verification: {
     google: "",
@@ -87,7 +87,7 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.png" type="image/png" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/manifest.json" />
-        <link rel="canonical" href="https://www.luminapress.com" />
+        <link rel="canonical" href="https://ham-news.vercel.app" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}

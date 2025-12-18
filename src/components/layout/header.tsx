@@ -32,7 +32,7 @@ export function Header() {
         <div className="flex items-center gap-1 md:gap-2">
           <Link href="/" className="flex items-center gap-1 md:gap-2 font-bold text-lg md:text-2xl">
             <span className="bg-gradient-to-r from-[#2563EB] to-[#8B5CF6] bg-clip-text text-transparent">
-              Ham<span className="font-light">Press</span>
+              Ham<span className="font-light">News</span>
             </span>
           </Link>
         </div>
