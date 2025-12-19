@@ -1,0 +1,34 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ham-news.vercel.app/sitemap.xml
+Sitemap: https://ham-news.vercel.app/news-sitemap.xml
+
+# Prevent crawling of specific paths (if needed)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Crawl delay for rate limiting (optional)
+# Crawl-delay: 10
+
+# Specific directives for major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# Host directive (optional)
+# Host: ham-news.vercel.app
