@@ -2503,3 +2503,6 @@ export default function ArticlePage({ params }: { params: { id: string } }) {
     </div>
   );
 }
+
+
+export default ArticlePage;
