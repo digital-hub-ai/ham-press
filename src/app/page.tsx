@@ -185,15 +185,15 @@ export default function Home() {
               </h1>
               
               <p className="text-xl text-[#E2E8F0] max-w-2xl mb-8 leading-relaxed">
-                Premium international news coverage. Expert analysis from bureaus in Washington, London, and Berlin for discerning readers in high-value markets.
+                Premium international news coverage. Expert analysis from bureaus in Washington, London, and Berlin for discerning readers in high-value markets. Explore our in-depth blog for comprehensive insights on luxury markets and premium services.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 mb-8">
                 <Button size="lg" className="bg-[#2563EB] hover:bg-[#2563EB]/90 text-white px-8 py-3 text-lg">
                   Subscribe Now
                 </Button>
-                <Button size="lg" variant="outline" className="border-[#2563EB] text-[#2563EB] hover:bg-[#2563EB]/10 px-8 py-3 text-lg">
-                  View Latest Articles
+                <Button size="lg" variant="outline" className="border-[#2563EB] text-[#2563EB] hover:bg-[#2563EB]/10 px-8 py-3 text-lg" asChild>
+                  <Link href="/blog">View Blog</Link>
                 </Button>
               </div>
               

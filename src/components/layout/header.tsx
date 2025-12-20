@@ -18,6 +18,7 @@ const navigationItems = [
   { name: "World", href: "/world", icon: Globe },
   { name: "Trending", href: "/trending", icon: TrendingUp },
   { name: "Premium", href: "/premium", icon: Star },
+  { name: "Blog", href: "/blog", icon: null },
   { name: "Ham News", href: "/ham-news", icon: null },
   { name: "You", href: "/profile", icon: UserCircle },
 ];
