@@ -1,5 +1,5 @@
 // Blog posts data for integration with news service
-import eliteHealthWellnessTourism from '../../fixed-elite-health-wellness-tourism-2025.js';
+import eliteHealthWellnessTourism from '../../elite-health-wellness-tourism-2025.js';
 import evolutionPrivateEducation from '../../evolution-private-education-2025.js';
 import exclusiveTravelExperiences from '../../exclusive-travel-experiences-2025.js';
 import fineDining2025 from '../../fine-dining-2.0-2025.js';
