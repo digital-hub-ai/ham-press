@@ -28,7 +28,7 @@ const mockArticles = [
       <cite>- Hiroshi Tanaka, Tokyo</cite>
     </blockquote>
     
-    <p>Organizers are already planning for next year's event, with discussions underway to expand the venue to accommodate even more visitors.</p>`;
+    <p>Organizers are already planning for next year's event, with discussions underway to expand the venue to accommodate even more visitors.</p>`,
     category: "Events",
     author: {
       name: "Sarah Johnson",
@@ -59,7 +59,7 @@ const mockArticles = [
     
     <p>Preliminary trials have shown remarkable results, with ham samples maintaining peak quality for up to 12 weeks compared to the standard 8 weeks achieved with conventional methods.</p>
     
-    <p>The research team is now working with several major ham producers to conduct larger-scale trials, with hopes of bringing the technology to market within the next 18 months.</p>`;
+    <p>The research team is now working with several major ham producers to conduct larger-scale trials, with hopes of bringing the technology to market within the next 18 months.</p>`,
     category: "Science",
     author: {
       name: "Dr. Michael Chen",
@@ -91,7 +91,7 @@ const mockArticles = [
     
     <p>Industry experts suggest that prices may remain elevated through early next year as producers work to rebuild herds and restore processing capacity. However, some relief may come from alternative protein sources and shifts in consumer purchasing patterns.</p>
     
-    <p>Retailers are advising consumers to plan ahead for holiday meals and consider alternative proteins where possible.</p>`;
+    <p>Retailers are advising consumers to plan ahead for holiday meals and consider alternative proteins where possible.</p>`,
     category: "Economics",
     author: {
       name: "Robert Williams",
@@ -124,7 +124,7 @@ const mockArticles = [
     
     <p>The festival also introduced several new initiatives focused on sustainability and ethical sourcing, reflecting growing consumer interest in responsible food production.</p>
     
-    <p>Plans are already underway for next year's event, with organizers considering expansion to accommodate continued growth in interest.</p>`;
+    <p>Plans are already underway for next year's event, with organizers considering expansion to accommodate continued growth in interest.</p>`,
     category: "Events",
     author: {
       name: "Jennifer Lopez",
@@ -156,7 +156,7 @@ const mockArticles = [
     
     <p>The researchers emphasized that their findings support current dietary guidelines that advocate for moderation rather than elimination of lean processed meats. They also noted the importance of pairing ham consumption with plenty of fruits, vegetables, and whole grains.</p>
     
-    <p>Future research will examine the impact of different preparation methods and seasoning choices on health outcomes.</p>`;
+    <p>Future research will examine the impact of different preparation methods and seasoning choices on health outcomes.</p>`,
     category: "Health",
     author: {
       name: "Dr. Sarah Kim",
