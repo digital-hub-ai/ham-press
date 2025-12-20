@@ -1,4 +1,4 @@
-{
+export default {
   id: "fine-dining-2.0-2025",
   title: "The Art of Fine Dining 2.0: How Technology and Sustainability Are Reshaping Culinary Excellence in 2025",
   excerpt: "Explore how fine dining has evolved in 2025 with molecular gastronomy, AI chef assistants, sustainable sourcing, immersive experiences, and personalized nutrition in high-income markets like USA, UK, Germany, Canada, and Australia.",

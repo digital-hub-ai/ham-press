@@ -1,4 +1,4 @@
-{
+export default {
   id: "premium-co-living-spaces-2025",
   title: "The Rise of Premium Co-Living Spaces: Redefining Urban Luxury for Professionals in Major Metropolitan Areas",
   excerpt: "Explore how premium co-living spaces are transforming urban housing for young professionals in major cities across USA, UK, Germany, Canada, and Australia with luxury amenities and community experiences.",

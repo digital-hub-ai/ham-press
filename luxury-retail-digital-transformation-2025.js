@@ -1,4 +1,4 @@
-{
+export default {
   id: "luxury-retail-digital-transformation-2025",
   title: "The Digital Transformation of Luxury Retail in 2025: How High-Income Markets Are Reshaping Consumer Experiences",
   excerpt: "Explore how luxury retail is evolving in 2025 with AR fitting rooms, AI personalization, blockchain authentication, and metaverse experiences in high-income markets like USA, UK, Germany, Canada, and Australia.",

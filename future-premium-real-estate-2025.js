@@ -1,4 +1,4 @@
-{
+export default {
   id: "future-premium-real-estate-2025",
   title: "The Future of Premium Real Estate in 2025: Smart Homes, Sustainable Architecture, and Lifestyle Integration",
   excerpt: "Explore how premium real estate is evolving in 2025 with AI-powered home automation, sustainable building materials, wellness-focused design, and integrated lifestyle technologies in high-income markets like USA, UK, Germany, Canada, and Australia.",

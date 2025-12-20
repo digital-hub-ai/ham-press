@@ -1,4 +1,4 @@
-{
+export default {
   id: "evolution-private-education-2025",
   title: "The Evolution of Private Education in 2025: How Elite Institutions Are Reshaping Learning for the Next Generation",
   excerpt: "Explore how private education is transforming in 2025 with AI integration, personalized learning paths, global citizenship programs, and innovative pedagogies in high-income countries like USA, UK, Germany, Canada, and Australia.",

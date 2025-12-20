@@ -1,4 +1,4 @@
-{
+export default {
   id: "elite-health-wellness-tourism-2025",
   title: "Elite Health and Wellness Tourism: The Billion-Dollar Industry Catering to Affluent Travelers in 2025",
   excerpt: "Discover the booming elite health and wellness tourism industry in 2025, featuring premium medical procedures, holistic wellness retreats, and personalized health experiences in high-income countries like USA, UK, Germany, Canada, and Australia.",

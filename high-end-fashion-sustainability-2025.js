@@ -1,4 +1,4 @@
-{
+export default {
   id: "high-end-fashion-sustainability-2025",
   title: "High-End Fashion Sustainability in 2025: Circular Design, Lab-Grown Materials, and Ethical Production Practices",
   excerpt: "Explore how luxury fashion is embracing sustainability in 2025 through circular design principles, lab-grown materials, ethical production, and innovative recycling technologies in high-income markets like USA, UK, Germany, Canada, and Australia.",

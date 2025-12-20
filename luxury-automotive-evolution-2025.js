@@ -1,4 +1,4 @@
-{
+export default {
   id: "luxury-automotive-evolution-2025",
   title: "Luxury Automotive Evolution in 2025: The Convergence of Sustainability, Technology, and Exclusivity",
   excerpt: "Discover how luxury automotive brands are redefining exclusivity in 2025 through sustainable materials, autonomous driving, AI personalization, and bespoke craftsmanship in high-income markets like USA, UK, Germany, Canada, and Australia.",

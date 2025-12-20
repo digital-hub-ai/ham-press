@@ -1,4 +1,4 @@
-{
+export default {
   id: "premium-home-automation-2025",
   title: "Premium Home Automation Systems in 2025: AI-Powered Ecosystems, Voice Control, and Integrated Smart Living",
   excerpt: "Explore how premium home automation is evolving in 2025 with AI-powered ecosystems, voice control, integrated smart living, and seamless technology integration in high-income markets like USA, UK, Germany, Canada, and Australia.",

@@ -1,4 +1,4 @@
-{
+export default {
   id: "exclusive-travel-experiences-2025",
   title: "Exclusive Travel Experiences in 2025: The Rise of Hyper-Personalized Luxury Adventures",
   excerpt: "Discover how luxury travel is evolving in 2025 with AI-powered itinerary planning, private island resorts, space tourism, cultural immersion programs, and bespoke adventures in high-income destinations like USA, UK, Germany, Canada, and Australia.",

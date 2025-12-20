@@ -1,4 +1,4 @@
-{
+export default {
   id: "premium-financial-technology-2025",
   title: "Premium Financial Technology in 2025: AI-Driven Wealth Management, Blockchain Security, and Personalized Financial Services",
   excerpt: "Discover how premium financial technology is revolutionizing wealth management in 2025 with AI advisors, blockchain security, personalized services, and institutional-grade tools for high-net-worth individuals in USA, UK, Germany, Canada, and Australia.",

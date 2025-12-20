@@ -1,4 +1,4 @@
-{
+export default {
   id: "luxury-spa-wellness-retreats-2025",
   title: "Luxury Spa and Wellness Retreats in 2025: Biohacking, Holistic Healing, and Personalized Wellness Experiences",
   excerpt: "Discover how luxury spa and wellness retreats are evolving in 2025 with biohacking technologies, holistic healing modalities, personalized wellness programs, and integrative health approaches in high-income destinations like USA, UK, Germany, Canada, and Australia.",

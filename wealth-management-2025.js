@@ -1,4 +1,4 @@
-{
+export default {
   id: "wealth-management-2025",
   title: "Sustainable Wealth Management Strategies for Ultra-High-Net-Worth Individuals in 2025",
   excerpt: "Discover cutting-edge wealth management strategies for ultra-high-net-worth individuals in 2025, focusing on sustainable investing, tax optimization, and alternative investments in volatile markets.",
