@@ -4,6 +4,8 @@ import "./globals.css";
 import { ThemeProvider } from "next-themes";
 import { MainLayout } from "@/components/layout/main-layout";
 import { ReactQueryProvider } from "@/providers/react-query-provider";
+import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -83,6 +85,7 @@ export default function RootLayout({
         <meta name="application-name" content="LuminaPress" />
         <meta name="msapplication-TileColor" content="#2563EB" />
         <meta name="format-detection" content="telephone=no" />
+        <meta name="google-site-verification" content="LBIeQN0P9NmMDc52HgxtMo-SAhmjBB3REjrhiK6yb3k" />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="icon" href="/favicon.png" type="image/png" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -100,6 +103,8 @@ export default function RootLayout({
             disableTransitionOnChange
           >
             <MainLayout>{children}</MainLayout>
+            <Analytics />
+            <SpeedInsights />
           </ThemeProvider>
         </ReactQueryProvider>
       </body>
